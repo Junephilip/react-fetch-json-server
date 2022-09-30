@@ -1,0 +1,39 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "temperature": 30,
+      "location": "USA"
+    },
+    {
+      "id": 2,
+      "temperature": 34,
+      "location": "JAPAN"
+    },
+    {
+      "id": 3,
+      "temperature": 23,
+      "location": "SOUTH KOREA"
+    },
+    {
+      "id": 4,
+      "temperature": 13,
+      "location": "RUSSIA"
+    },
+    {
+      "id": 5,
+      "temperature": 36,
+      "location": "UK"
+    },
+    {
+      "id": 6,
+      "temperature": 40,
+      "location": "CANADA"
+    },
+    {
+      "id": 7,
+      "temperature": 35,
+      "location": "ALASKA"
+    }
+  ]
+}
